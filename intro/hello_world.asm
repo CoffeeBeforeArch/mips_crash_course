@@ -1,7 +1,7 @@
 # This program prints prints "Hello, World!" to the console
 # By: Nick from CoffeeBeforeArch
 
-# Directive that means means instructions that follow are
+# Directive that means instructions that follow are
 # part of the program
 .text
 # Label (not necessary)
