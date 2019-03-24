@@ -15,3 +15,4 @@ Simulator: MARS 4.5
 | ----- | -------- | ----- |
 | <a href=https://youtu.be/0Rlzp9iugWM>MIPS Crash Course: Introduction</a> | MIPS, CISC, RISC, Directives, Syscalls | <a href=https://github.com/CoffeeBeforeArch/mips_crash_course/blob/master/intro/hello_world.asm >hello_world.asm</a> |
 | <a href=https://youtu.be/NfOSN-oeIMc>MIPS Crash Course: User Input</a> | User Input, Reading Integers, Printing Integers | <a href=https://github.com/CoffeeBeforeArch/mips_crash_course/blob/master/io/io.asm >io.asm</a> |
+| <a href=https://youtu.be/vBaIlas0cZ0>MIPS Crash Course: Arithmetic</a> | Arithmetic, Floating Point | <a href=https://github.com/CoffeeBeforeArch/mips_crash_course/blob/master/arithmetic/arithmetic.asm >arithmetic.asm</a> |
