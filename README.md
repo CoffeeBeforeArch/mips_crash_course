@@ -10,6 +10,8 @@ Operating System: Windows 10
 
 Simulator: MARS 4.5
 
+ISA: MIPS-32
+
 ## Concepts covered in each video
 | Video | Concepts | Files |
 | ----- | -------- | ----- |
